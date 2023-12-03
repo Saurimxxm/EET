@@ -1,59 +1,59 @@
 //CHARSND.2DA
-@4000000 = ~BG2 Hombre 1~
-@4000001 = ~BG2 Hombre 2~
-@4000002 = ~BG2 Hombre 3~
-@4000003 = ~BG2 Hombre 4~
-@4000004 = ~BG2 Hombre 5~
-@4000005 = ~BG2 Mujer 1~
-@4000006 = ~BG2 Mujer 2~
-@4000007 = ~BG2 Mujer 3~
-@4000008 = ~BG2 Mujer 4~
-@4000009 = ~BG1 Hombre (predeterminado)~
-@4000010 = ~BG1 Mujer (predeterminado)~
+@4000000 = ~BG2 Homem 1~
+@4000001 = ~BG2 Homem 2~
+@4000002 = ~BG2 Homem 3~
+@4000003 = ~BG2 Homem 4~
+@4000004 = ~BG2 Homem 5~
+@4000005 = ~BG2 Mulher 1~
+@4000006 = ~BG2 Mulher 2~
+@4000007 = ~BG2 Mulher 3~
+@4000008 = ~BG2 Mulher 4~
+@4000009 = ~BG1 Homem (predeterminado)~
+@4000010 = ~BG1 Mulher (predeterminado)~
 
 //CAMPAIGN.2DA / UI.MENU
-@4000100 = ~"Quien con monstruos lucha cuide de convertirse a su vez en monstruo. Cuando miras largo tiempo a un abismo, el abismo también mira dentro de ti..." - Friedrich Nietzsche.
+@4000100 = ~“Quem luta com monstros deve ter cuidado para não se tornar um monstro. Quando você olha por muito tempo para um abismo, o abismo também olha para você...” - Friedrich Nietzsche.
 
-Desde que tienes memoria, tu visión del mundo se ha limitado a los muros fortificados de Candelero. Tu padre adoptivo, Gorion, ha hecho todo lo que ha estado en su mano para protegerte.
+Desde que você se lembra, sua visão do mundo esteve limitada às muralhas fortificadas do Forte da Vela. Seu pai adotivo, Gorion, fez tudo ao seu alcance para protegê-lo.
 
-Todo eso está a punto de cambiar. Obligado a abandonar tu hogar bajo circunstancias misteriosas, te ves envuelto en una trama que tiene a la Costa de la Espada al borde de la guerra. Una escasez de hierro de origen desconocido amenaza con causar un conflicto entre Puerta de Baldur y Amn. Mientras, se urde en las sombras algo mucho más siniestro de lo que podrías imaginar...~
-@4000101 = ~"El destino dirige a quien lo sigue y arrastra a quien se le resiste." - Plutarco
+Tudo isso está sujeito a alterações. Forçado a deixar sua casa sob circunstâncias misteriosas, você se envolve em uma trama que deixa a Costa da Espada à beira da guerra. Uma escassez de ferro de origem desconhecida ameaça causar conflito entre Baldur's Gate e Ammon. Enquanto isso, algo muito mais sinistro do que você poderia imaginar está se formando nas sombras...~
+@4000101 = ~"O destino dirige aqueles que o seguem e arrasta aqueles que lhe resistem." - Plutarco
 
-La amenaza de la guerra acecha de nuevo en Puerta de Baldur. Una cruzada avanza desde el norte apropiándose de recursos, obligando a los lugareńos a tomar las armas y afectando al comercio a lo largo de la Costa de la Espada. Una carismática guerrera conocida como la Dama Radiante dirige este ejército, aunque su origen es un misterio. Se rumorea que sigue instrucciones de un poder divino. żEs posible que los dioses guíen a esta Dama Radiante?
+A ameaça de guerra surge novamente em Baldur's Gate. Uma cruzada avança do norte, confiscando recursos, forçando os habitantes locais a pegar em armas e interrompendo o comércio ao longo da Costa da Espada. Uma guerreira carismática conhecida como Lady Radiant lidera este exército, embora sua origem seja um mistério. Há rumores de que ele segue instruções de um poder divino. É possível que os deuses guiem esta Senhora Radiante?
 
-Cuanto más te alejas de la ciudad, más descubres cuántas fuerzas participan en este conflicto. Puerta de Baldur ha depositado su fe en ti, pero debes elegir a quién apoyarás antes de enfrentarte a la Dama Radiante entre las ruinas del castillo de Dragasta...~
-@4000102 = ~"El Seńor del Asesinato perecerá, pero en su caída derramará una plaga de progenie mortal. El caos será sembrado a su paso..." - Así habló el sabio Alaundo
+Quanto mais você se afasta da cidade, mais você descobre quantas forças estão envolvidas neste conflito. Baldur's Gate depositou fé em você, mas você deve escolher quem irá apoiar antes de enfrentar a Senhora Radiante entre as ruínas do Castelo Dragasta...~
+@4000102 = ~"O Senhor do Assassinato perecerá, mas em sua queda ele lançará uma praga de descendência mortal. O caos será semeado em seu rastro..." - Assim falou o sábio Alaundo
 
-Secuestrado. Encarcelado. Torturado. El mago Irenicus te retiene en su fortaleza, intentando arrebatarte los poderes que te pertenecen por nacimiento.
+Seqüestrado. Preso. Torturado. O mago Irenicus mantém você em sua fortaleza, tentando tirar de você os poderes que são seus por nascimento.
 
-żResistirás el mal que aflora en ti, forjarás una leyenda de proporciones épicas, y finalmente destruirás la esencia oscura que ronda tus sueńos? żO por el contrario abrazarás tu naturaleza monstruosa, sembrarás la destrucción por los reinos, y ascenderás a la divinidad como el nuevo Seńor del Asesinato?~
-@4000103 = ~"No hay paz para un Hijo de Bhaal. Has aprendido esta lección una y otra vez. Al igual que todos tus allegados, quienes sufren por tu sangre manchada."
+Você resistirá ao mal dentro de você, forjará uma lenda de proporções épicas e finalmente destruirá a essência sombria que assombra seus sonhos? Ou você irá, em vez disso, abraçar sua natureza monstruosa, causar destruição em todos os reinos e ascender à divindade como o novo Senhor do Assassinato?~
+@4000103 = ~"Não há paz para um Filho de Bhaal. Você aprendeu esta lição repetidamente. Assim como todos aqueles próximos a você, que sofrem por seu sangue manchado."
 
-Bienvenido a Baldur's Gate II: Throne of Bhaal, la expansión de Baldur's Gate II: Shadows of Amn y el capítulo final de la saga Baldur's Gate. La hora de la profecía ha llegado.~
-@4000104 = ~"ˇVenid todos y deleitaos con la magnificencia marcial más maravillosa que puede ofrecer la Infraoscuridad!" - Baeloz el Animador
+Bem-vindo ao Baldur's Gate II: Throne of Bhaal, a expansão de Baldur's Gate II: Shadows of Amn e o capítulo final da saga Baldur's Gate. A hora da profecia chegou.~
+@4000104 = ~"Venham todos e deleitem-se com a mais maravilhosa magnificência marcial que o Subterrâneo pode oferecer!" - Baeloz, o Artista
 
-En las profundidades de la Infraoscuridad, donde pocos se atreven a adentrarse, el drow loco Baeloz ha empleado sus amplios conocimientos mágicos para obligar a una colonia duergar a crear un complejo lúdico diseńado por él. Invitados de todas partes de los Reinos, desde Maztica hasta Menzoberranzan, asistirán con gusto al evento: los espectáculos de Baeloz tienen gran fama.~
-@4000105 = ~"ˇVenid todos al mayor espectáculo de este lado del Plano Astral!" - Dennaton
+Nas profundezas do Subterrâneo, onde poucos se atrevem a mergulhar, o drow louco Baeloz usou seu extenso conhecimento mágico para forçar uma colônia de duergar a criar um complexo recreativo projetado por ele. Convidados de todos os Reinos, de Maztica a Menzoberranzan, terão prazer em participar do evento: os shows de Baeloz são muito famosos.~
+@4000105 = ~“Venham todos para o maior espetáculo deste lado do Plano Astral!” -Dennaton
 
-Bienvenido a Los Fosos Negros 2: Gladiadores de Zhay, la continuación de Los Fosos Negros de Baeloz. Explora la profundidad táctica del combate de alto nivel de Dungeons & Dragons. Enfrenta a tus captores entre ellos mientras esquivas trampas y luchas por tu vida contra semiliches, azotamentes y los legendarios githyanki.~
+Bem-vindo ao The Black Pits 2: Gladiators of Thay, a continuação de The Black Pits of Baeloz. Explore a profundidade tática do combate de alto nível em Dungeons & Dragons. Coloque seus captores uns contra os outros enquanto você evita armadilhas e luta por sua vida contra demi-liches, devoradores de mentes e os lendários Githyanki.~
 
 //based on BG:EE @24353
-@4000106 = ~"Hola, joven. żSeguimos con vuestras lecciones?" - Tutor
+@4000106 = ~"Olá, jovem. Vamos continuar com suas aulas?" - Tutor
 
-Bienvenido al palacio ducal, la zona de tutorial para Baldur's Gate: Enhanced Edition. Esto es una explicación sencilla de algunas de las habilidades básicas que usarás durante el juego. Cuando se haya cargado la zona de tutorial, un PNJ (personaje no jugador) te guiará en la lucha contra monstruos, el lanzamiento de hechizos, el uso de habilidades de ladrón y algunas de las interacciones más comunes que experimentarás en el mundo de juego.~
+Bem-vindo ao palácio ducal, a área de tutoriais de Baldur's Gate: Enhanced Edition. Esta é uma explicação simples de algumas das habilidades básicas que você usará durante o jogo. Assim que a área do tutorial for carregada, um NPC (personagem não-jogador) irá guiá-lo na luta contra monstros, lançar feitiços, usar habilidades de ladrão e algumas das interações mais comuns que você experimentará no mundo do jogo.~
 @4000107 = ~Baldur's Gate~
 @4000108 = ~Siege of Dragonspear~
 @4000109 = ~Shadows of Amn~
 @4000110 = ~Throne of Bhaal~
-@4000111 = ~Los Fosos Negros~
+@4000111 = ~Os Fosos Negros~
 @4000112 = ~Gladiadores de Zhay~
 @4000113 = ~Tutorial~
 @4000114 = ~ALERTA~
-@4000115 = ~La instalación del mod Baldur's Gate: Enhanced Edition Trilogy aún no ha terminado.
+@4000115 = ~A instalação do mod Baldur's Gate: Enhanced Edition Trilogy ainda não foi concluída.
 
-DESPUÉS de instalar el resto de mods, por favor, ejecuta "setup-EET_end.exe" para finalizar la instalación. 
+APÓS instalar o restante dos mods, execute "setup-EET_end.exe" para finalizar a instalação.
 
-Si tienes dudas, por favor, lee el archivo "readme" incluido en el paquete del mod.~
+Se você tiver dúvidas, leia o arquivo "readme" incluído no pacote mod.~
 @4000116 = ~Capítulo ~
 
 //SAVENAME.2DA
@@ -65,14 +65,14 @@ Si tienes dudas, por favor, lee el archivo "readme" incluido en el paquete del m
 @4000205 = ~000000012-Capítulo 5 Inicio~
 @4000206 = ~000000013-Capítulo 6 Inicio~
 @4000207 = ~000000014-Capítulo 7 Inicio~
-@4000208 = ~000000015-Capítulo 7 Mazmorra~
+@4000208 = ~000000015-Capítulo 7 Masmorra~
 @4000209 = ~000000016-Capítulo 8 Inicio~
 @4000210 = ~000000017-Capítulo 9 Inicio~
 @4000211 = ~000000018-Capítulo 10 Inicio~
 @4000212 = ~000000019-Capítulo 11 Inicio~
 @4000213 = ~000000020-Capítulo 12 Inicio~
 @4000214 = ~000000021-Capítulo 13 Inicio~
-@4000215 = ~000000022-Capítulo 13 Mazmorra~
+@4000215 = ~000000022-Capítulo 13 Masmorra~
 @4000216 = ~000000023-Capítulo 14 Inicio~
 @4000217 = ~000000024-Capítulo 15 Inicio~
 @4000218 = ~000000025-Capítulo 16 Inicio~
@@ -85,4 +85,4 @@ Si tienes dudas, por favor, lee el archivo "readme" incluido en el paquete del m
 
 //Worldmap GUI Strings
 @4000300 = ~Horas~
-@4000301 = ~Inalcanzable~
+@4000301 = ~Inatingível~
